@@ -19,7 +19,8 @@ You should now be able to use it.
 
 ## Running experiments.
 
-Go to the folder bandit_diffusion.
+Go to the folder bandit_diffusion:
+
 ``cd bandit_diffusion``
 
 Run command to train the model:
